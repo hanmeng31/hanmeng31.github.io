@@ -7450,6 +7450,7 @@ h1, h2, h3, h4, h5,
 #colorlib-main {
   width: 100%;
   float: right;
+  overflow: scroll;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
@@ -8541,3 +8542,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+dl {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
