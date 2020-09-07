@@ -128,13 +128,11 @@
                                     <b>Data Engineering</b>: Collected related sound data by designing experiments in
                                     the Ecobee sound lab; acquired most public open-source sound data (DCASE, ESC-50,
                                     etc.) and Google AudioSet (about 2 million sound samples and 620 classes);
-                                    implemented data augmentation to increase the variety of data to 4 ~ 5 times of the
-                                    original dataset size.
+                                    implemented data augmentation to increase the variety of input sound data.
                                 </li>
                                 <li align="left">
                                     <b>Data Pipeline</b>: Implemented a scalable Apache Beam pipeline on Google Cloud
-                                    Platform (GCP) framework to parallelly process sound input as large as 5 GB per
-                                    minute, send prediction requests to ML Engine on GCP, and further handle the
+                                    Platform (GCP) framework to parallelly process sound input, send prediction requests to ML Engine on GCP, and further handle the
                                     prediction result for each user in real-time.
                                 </li>
                                 <li align="left">
