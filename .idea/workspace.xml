@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1621d92f-5229-473f-8dc1-ebae84441f6f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="217" column="105" selection-start-line="217" selection-start-column="105" selection-end-line="217" selection-end-column="105" />
+            <state relative-caret-position="234">
+              <caret line="218" column="34" selection-start-line="218" selection-start-column="34" selection-end-line="218" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -92,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -212,8 +211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="217" column="105" selection-start-line="217" selection-start-column="105" selection-end-line="217" selection-end-column="105" />
+        <state relative-caret-position="234">
+          <caret line="218" column="34" selection-start-line="218" selection-start-column="34" selection-end-line="218" selection-end-column="34" />
         </state>
       </provider>
     </entry>
